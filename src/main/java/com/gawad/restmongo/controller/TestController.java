@@ -8,8 +8,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.gawad.restmongo.Person;
-import com.gawad.restmongo.PersonRepository;
+import com.gawad.restmongo.model.Person;
+import com.gawad.restmongo.model.PersonRepository;
 
 @RestController
 @RequestMapping("api")

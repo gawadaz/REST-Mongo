@@ -1,4 +1,4 @@
-package com.gawad.restmongo;
+package com.gawad.restmongo.model;
 
 import org.springframework.data.annotation.Id;
 
